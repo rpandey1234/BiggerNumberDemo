@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IdeaLensProjectSettingsComponent">
+    <option name="lensTypeEnabled">
+      <map>
+        <entry key="Class Load" value="true" />
+        <entry key="Dead Items" value="false" />
+        <entry key="Gatekeeper" value="true" />
+        <entry key="MobileConfig" value="true" />
+      </map>
+    </option>
+  </component>
+</project>
