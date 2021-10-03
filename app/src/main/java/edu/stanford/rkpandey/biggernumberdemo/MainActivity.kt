@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
         val backgroundColor: Int
         if (isAnswerCorrect) {
             toastMessage = "Correct!!"
-            backgroundColor = Color.CYAN
+            backgroundColor = Color.GREEN
         } else {
             toastMessage = "Wrong"
             backgroundColor = Color.RED
